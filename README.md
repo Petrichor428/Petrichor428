@@ -1,4 +1,7 @@
-## Hi there 👋
+## About 👋
+- 🎓 BEng in Electronic Information Engineering, NYNU (2025)
+- 🎓 BA in English (Minor), NYNU (2025)
+- 🎓 MEng in Information and Communication Engineering, HDU (2025–)
 
 <!--
 **Petrichor428/Petrichor428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
