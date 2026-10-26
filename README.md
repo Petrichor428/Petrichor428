@@ -1,6 +1,5 @@
 ## About 
 - 🎓 **BEng in Electronic Information Engineering**(2025)
-- 🎓 **BA in English** (Minor，2025)
 - 🎓 **MEng in Information and Communication Engineering**, HDU (2025 – )
 - 🛠 Mostly **Python, C & TypeScript**
 
